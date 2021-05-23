@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687354021894",
+    "project_id": "mandatoryii",
+    "storage_bucket": "mandatoryii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687354021894:android:5cb9e06f5fc3648a521b87",
+        "android_client_info": {
+          "package_name": "com.bundgaard.mandatory_ii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687354021894-8f3jmq6ckaahhiqc8hggjh26jiejdu5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgRU1EbMNTo2OpHzTecxNjeuDvux2guTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687354021894-8f3jmq6ckaahhiqc8hggjh26jiejdu5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
